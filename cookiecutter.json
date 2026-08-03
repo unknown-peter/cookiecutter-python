@@ -1,5 +1,7 @@
 {
     "project_name": "New Project",
     "package_name": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
-    "project_description": "new project description"
+    "project_description": "new project description",
+    "author_name": "unknown-peter",
+    "license": ["NONE", "MIT"]
 }
