@@ -10,7 +10,7 @@ pip install cookiecutter
 
 cookiecutter gh:unknown-peter/cookiecutter-python
 ```
-
+<br>
 enter project config values
 ```text
 $ cookiecutter gh:unknown-peter/cookiecutter-python
@@ -23,7 +23,7 @@ $ cookiecutter gh:unknown-peter/cookiecutter-python
     2 - MIT
     Choose from [1/2] (1):
 ```
-
+<br>
 project layout
 ```text
 new_project
