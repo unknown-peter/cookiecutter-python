@@ -3,5 +3,5 @@
     "package_name": "{{ cookiecutter.project_name.lower().replace(' ', '_') }}",
     "project_description": "new project description",
     "author_name": "unknown-peter",
-    "license": ["NONE", "MIT"]
+    "license": ["NONE", "MIT", "Apache License 2.0"]
 }

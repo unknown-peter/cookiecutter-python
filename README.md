@@ -26,10 +26,10 @@ $ cookiecutter gh:unknown-peter/cookiecutter-python
 ```
 <br>
 
-project layout
+project layout (file or directory in bracket is optional)
 ```text
 new_project
-├── LICENSE
+├── (LICENSE)
 ├── README.md
 ├── src
 │   └── new_project
